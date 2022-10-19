@@ -2,7 +2,7 @@
 - 👀 I’m interested in transforming data into insights
 - 🌱 I’m currently learning SQL, Python, and R
 - 💞️ I’m looking to collaborate on Hackathons, Bootcamps, interesting projects related to data insights
-- 📫 How to reach me fdesena@student.hult.edu
+- 📫 How to reach me fdesena@student.hult.edu / https://www.linkedin.com/in/senafelipe/
 
 <!---
 fdesena/fdesena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
