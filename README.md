@@ -9,3 +9,5 @@
 fdesena/fdesena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img width="555" alt="portfolio_website" src="https://user-images.githubusercontent.com/96396888/202740982-2abb6ac1-3d51-4246-a2af-5e66334c6925.png">
