@@ -10,7 +10,7 @@ fdesena/fdesena is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2 align="left"> Personal Porfolio: http://felipesena.me/ </h2>
+<h2 align="left"> Personal Porfolio: http://felipesena.me/ (currently being built) </h2>
 <img width="1135" alt="portfolio_website1" src="https://user-images.githubusercontent.com/96396888/202742939-3ea8dc54-5a0b-4d8d-a0b2-3c76c0ae012b.png">
 <img width="1137" alt="portfolio_website2" src="https://user-images.githubusercontent.com/96396888/202742986-518e6107-ed2b-49e6-819d-96b96f705461.png">
 <img width="1131" alt="portfolio_website3" src="https://user-images.githubusercontent.com/96396888/202743004-66eaa0bc-e805-4896-9494-e6b7294b8a58.png">
